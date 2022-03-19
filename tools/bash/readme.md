@@ -13,7 +13,7 @@ here `activate` is a bash file that extends your bash customization, ie developm
 ## aliases
 source bash file containing bash aliases `~/.bash_aliases`
 ```bash
-if [ -f ~/.bas_aliases ]; then
+if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 ```
