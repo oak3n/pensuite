@@ -2,3 +2,4 @@
 ## aircrack-ng
 ## metasploit
 ## nmap
+## bash
