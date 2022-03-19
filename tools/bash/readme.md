@@ -49,4 +49,3 @@ env2 # activate environment for project3
 ## links
 [a quick guide to bashrc](https://www.marquette.edu/high-performance-computing/bashrc.php)
 
-
